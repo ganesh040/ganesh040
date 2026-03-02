@@ -1,102 +1,72 @@
-# Ganesh Reddy Gudibandi
-
-System Development Engineer | AWS Certified Solutions Architect  
-Cloud-Native Architect | Distributed Systems | AI-Integrated Applications  
-
----
-
-## About Me
-
-I design and build production-grade distributed systems on AWS.
-
-With 2+ years of experience, I specialize in:
-
-- Cloud-native microservices (Spring Boot, FastAPI)
-- Event-driven architectures (Kafka, EKS)
-- High-availability AWS infrastructure
-- CI/CD automation and DevOps engineering
-- AI-powered backend systems (LangChain, OpenAI, RAG)
-
-Currently building scalable microservices at **Saayam For All**, processing 100K+ daily transactions with 99.9% availability on AWS EKS.
-
-I focus on reliability, performance optimization, and clean system design.
+<h1 align="center">Ganesh Reddy Gudibandi</h1>
+<p align="center">
+System Development Engineer • Cloud-Native Architect • AI-Integrated Systems
+</p>
 
 ---
 
-## Core Expertise
+## Engineering Focus
 
-**Cloud & Infrastructure**
-- AWS (EKS, EC2, S3, RDS, Lambda, MSK, Cognito)
-- Docker, Kubernetes
-- Terraform
-- GitHub Actions CI/CD
+I design and operate distributed, production-grade systems on AWS.
 
-**Backend & Distributed Systems**
-- Java (Spring Boot 3)
-- Python (FastAPI, Django)
-- Event-driven systems (Kafka)
-- REST & GraphQL APIs
-- Microservices architecture
+My work centers on:
 
-**Databases**
-- PostgreSQL
-- MongoDB
-- Redis
-- DynamoDB
-- Aurora
+• Cloud-native microservices (Spring Boot, FastAPI)  
+• Event-driven architectures (Kafka, EKS)  
+• High-availability infrastructure and automation  
+• AI-powered backend systems (RAG, LLM integration)  
+• Performance optimization and reliability engineering  
 
-**AI / ML Systems**
-- LangChain
-- OpenAI API
-- RAG pipelines
-- MLflow
-- Scikit-learn / TensorFlow
+I build systems that scale, remain observable, and are engineered for operational excellence.
 
 ---
 
-## Featured Projects
+## Core Stack
 
-### Drug-Disease Prediction System
-Cloud-based ML inference platform with:
-- 4 trained ML models (85%+ accuracy)
-- FastAPI microservices (<200ms latency)
-- Dockerized deployment
-- MLflow experiment tracking
-- CI/CD automation
+**Cloud & Infrastructure**  
+AWS • Kubernetes • Docker • Terraform • CI/CD Automation  
 
-→ Production-ready ML architecture with monitoring & reproducibility
+**Backend & Distributed Systems**  
+Java • Python • REST • GraphQL • Event Streaming  
 
----
+**Data & Persistence**  
+PostgreSQL • MongoDB • Redis • DynamoDB  
 
-### LetsGoPark – Distributed Parks Platform
-Full-stack ASP.NET Core system:
-- Aggregates 400+ locations
-- 50% query performance improvement
-- RESTful API architecture
-- Automated CI/CD with 85% test coverage
+**AI Integration**  
+LangChain • OpenAI API • MLflow • Production ML Pipelines  
 
 ---
 
-## Engineering Philosophy
+## Selected Work
 
-- Design for scale
-- Automate everything
-- Measure performance
-- Optimize for reliability
-- Ship production-ready systems
+**Drug–Disease Prediction Platform**  
+Production ML inference architecture with experiment tracking, containerized deployment, and sub-200ms API response latency.
+
+**LetsGoPark Distributed Platform**  
+Scalable ASP.NET Core system aggregating 400+ locations with optimized database architecture and automated delivery pipelines.
+
+---
+
+## Design Principles
+
+- Architect for scale  
+- Automate infrastructure  
+- Prioritize observability  
+- Optimize performance  
+- Deliver production-ready systems  
 
 ---
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Cloud Practitioner  
-- Microsoft Certified: Python  
+AWS Certified Solutions Architect – Associate  
+AWS Certified Cloud Practitioner  
+Microsoft Certified: Python  
 
 ---
 
-## Connect
+## Contact
 
-LinkedIn: https://linkedin.com/in/ganeshreddygudibandi  
-Email: gudibandiganesh450@gmail.com  
-Portfolio: https://ganeshreddygudibandi.com
+LinkedIn → https://linkedin.com/in/ganeshreddygudibandi  
+Portfolio → https://ganeshreddygudibandi.com  
+Email → gudibandiganesh450@gmail.com
